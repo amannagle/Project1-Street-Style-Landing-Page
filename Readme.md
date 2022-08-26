@@ -1,5 +1,5 @@
 # Project 1
-This project is a street themed landing page. It was created as assignment one in Ineuro js bootcamp. This assignment was a good practice to solidify concepts of positioning.
+This project is a street themed landing page. It was created as assignment one in Ineuron js bootcamp. This assignment was a good practice to solidify concepts of positioning.
 
 ## Tech Stack
 - html
